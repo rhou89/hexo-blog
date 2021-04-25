@@ -152,10 +152,10 @@ search:
     type: insight
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-comment:
-    type: disqus
-    # Disqus shortname
-    shortname: 'Ryan'
+# comment:
+#     type: disqus
+#     # Disqus shortname
+#     shortname: 'Ryan'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 # donates:
@@ -223,7 +223,7 @@ widgets:
         # Author's current location
         location: 'Universe #8333'
         # URL or path to the avatar image
-        avatar: 
+        avatar: /img/avatar.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
@@ -287,15 +287,15 @@ widgets:
         # Where should the widget be placed, left sidebar or right sidebar
         position: right
         type: tags
-    # Google FeedBurner email subscription widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: subscribe_email
-        # Hint text under the email input
-        description: 
-        # Feedburner ID
-        feedburner_id: ''
+    # # Google FeedBurner email subscription widget configurations
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: subscribe_email
+    #     # Hint text under the email input
+    #     description: 
+    #     # Feedburner ID
+    #     feedburner_id: ''
     # # Google AdSense unit configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar
