@@ -245,9 +245,9 @@ widgets:
             Mail:
                 icon: far fa-envelope
                 url: 'mailto:ryanhou94@gmail.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+            # RSS:
+            #     icon: fas fa-rss
+            #     url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
