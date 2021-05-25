@@ -106,9 +106,9 @@ navbar:
         About: /about
     # Links to be shown on the right of the navigation bar
     links:
-        Download on GitHub:
-            icon: fab fa-github
-            url: 'https://github.com/ryanhau94'
+        # Download on GitHub:
+        #     icon: fab fa-github
+        #     url: 'https://github.com/ryanhau94'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -229,7 +229,7 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: 'https://github.com/ryanhau94'
+        # follow_link: 'https://github.com/ryanhau94'
         # Links to be shown on the bottom of the profile widget
         # fontawesome
         social_links:
@@ -267,6 +267,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Google Scholar: 'https://scholar.google.com/citations?hl=en&user=mJJxP8EAAAAJ'
+            求是量子: 'https://www.qtseeker.com'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar

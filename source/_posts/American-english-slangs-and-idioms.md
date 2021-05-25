@@ -10,14 +10,18 @@ categories:
 
 记录一些曾经让自己一脸蒙蔽的美语俚语/习语。
 
-## take it with a grain of salt
-- 跟别人讨论问题时候，对方突然用了这个短语，当时直接傻了。后来查了一下才发现是个挺常用的习语，意思是：regard something as exaggerated; believe only part of something。
+## Bob's your uncle
+- 一次聊天的时候manger用的，当时一度给我“你大爷”的感觉。后来查了一下Wiki，竟然是 "and there it is" or "and there you have it" or "It's done"。
 
 <!-- more -->
-
+## in the cards
+- very possible or likely。
+## take it with a grain of salt
+- 跟别人讨论问题时候，对方突然用了这个短语，当时直接傻了。后来查了一下才发现是个挺常用的习语，意思是：regard something as exaggerated; believe only part of something。
+  
 ## fill in/out
 - 这两个词混用了很久，以前都没注意。最近查了一下才知道前者英英常用，后者美英常用。不过其实混用也无所谓~
-
+  
 ## rest assured
 - To be certain or confident.
 - 一次manager对我说了这句话，当时愣住了。事后才想起来这个词的意思，当时看美剧《24小时》学到的。
