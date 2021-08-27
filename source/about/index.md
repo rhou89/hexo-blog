@@ -2,15 +2,16 @@ title: About me
 ---
 
 ## Education Background
-- Ph.D candidate in *Physics*, [The University of Texas at Dallas (UTD)](https://www.utdallas.edu/), United States 08/2016 - Present
+- Ph.D in *Physics*, [The University of Texas at Dallas (UTD)](https://www.utdallas.edu/), United States 08/2016 - 08/2021
 - Exchange program in *Software Engineering*, [Pole Universitaire Leonard de Vinci](https://www.devinci.fr/en/), France 08/2015 - 02/2016
 - B. E. in *Computer Science and Technology*, special training class for computer software, [Nanjing University of Aeronautics and Astronautics (NUAA)](http://iao.nuaa.edu.cn/), China 09/2012 - 06/2016
 
 ## Reasearch/Work Experiences
-- Research Assistant in Atomic, Molecular and Optical Physics, UTD 11/2016 - Present
-- Research Intern, Micrsoft Research Quantum, Microsoft Redmond 06/2020 - 10/2020
+- SDE II, Microsoft Research Quantum, Microsft 05/2021 - Present
+- Research Assistant in Atomic, Molecular and Optical Physics, UTD 11/2016 - 08/2021
+- Research Intern, Micrsoft Research Quantum, Microsoft 06/2020 - 10/2020
 - Teaching Assistant, Department of Physics, UTD 08/2016 - 12/2017
-- Undergraduate Research Assistant, Department of Computer Science and Technology and Department of Applied Physics, NUAA 12/2012 - 07/2016
+- Undergraduate Research Assistant, Department of Computer Science and Technology, NUAA 12/2012 - 07/2016
 
 ## Reaserch Highlights
 - Y.-J. Wu, **J. Hou** et al, [Phys. Rev. Lett. **124**, 227001 (2020)](https://doi.org/10.1103/PhysRevLett.124.227001).
