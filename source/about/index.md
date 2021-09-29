@@ -14,14 +14,8 @@ title: About me
 - Teaching Assistant, Department of Physics, UTD 08/2016 - 12/2017
 
 ## Reaserch Highlights
-<<<<<<< HEAD
 - F. A. An, B. Sundar, **J. Hou** et al, [Phys. Rev. Lett. **127**, 130401 (2021)](https://doi.org/10.1103/PhysRevLett.127.130401). *Editors' Suggestion*
-  - We thoretically and experimentally study the nonlinear dynamics of a BEC in a synthetic momentum-state lattice.
-  - This can be a lattice generalization of my work on momentum-space Josephon junction [[Phys. Rev. Lett. **120**, 120401 (2018)](https://doi.org/10.1103/PhysRevLett.120.120401)].
-=======
-- F. An, B. Sundar, **J. Hou** et al, [arXiv: 2105.04429](https://arxiv.org/abs/2105.04429) (to appear in [Phys. Rev. Lett.](https://journals.aps.org/prl/accepted/9607aYcfRfd10084b3085e515e71e3e7e018ab075)).
   - We experimentally realize a synthetic lattice in momentum space and show how nonlinear interactions and coherent tunneling lead to rich dyanmics including macroscopic self-trapping and phase-driven Josephson dynamics. The latter was predicted in our previous work [Phys. Rev. Lett. **120**, 120401 (2018)](https://doi.org/10.1103/PhysRevLett.120.120401).
->>>>>>> a37da90a21d580023f3cd8f3a016edbec63f6c75
 - Y.-J. Wu, **J. Hou** et al, [Phys. Rev. Lett. **124**, 227001 (2020)](https://doi.org/10.1103/PhysRevLett.124.227001).
   - We discover an experimentally accessible platform, using  a heterostructure of a quantum spin Hall insulator and an s-wave superconductor, for engineering Majorana corner and hinge modes, which are beneficial for topological quantum computing.
 - **J. Hou** et al, [Phys. Rev. Lett. **124**, 073603 (2020)](https://doi.org/10.1103/PhysRevLett.124.073603).
