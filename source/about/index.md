@@ -6,14 +6,17 @@ title: About me
 - Exchange program in *Software Engineering*, [Pole Universitaire Leonard de Vinci](https://www.devinci.fr/en/), France 08/2015 - 02/2016
 - B. E. in *Computer Science and Technology*, special training class for computer software, [Nanjing University of Aeronautics and Astronautics (NUAA)](http://iao.nuaa.edu.cn/), China 09/2012 - 06/2016
 
-## Reasearch/Work Experiences
-- SDE II, Microsoft Research Quantum, Microsft 05/2021 - Present
-- Research Assistant in Atomic, Molecular and Optical Physics, UTD 11/2016 - 08/2021
-- Research Intern, Micrsoft Research Quantum, Microsoft 06/2020 - 10/2020
+## Appointments
+- Research Scientist, Facebook Research 09/2021 - Present
+- Visiting Researcher, Microsoft Research Quantum 05/2021 - Present
+- Research Assistant, UT Dallas 11/2016 - 08/2021
+- Research Intern, Micrsoft Research Quantum 06/2020 - 10/2020
 - Teaching Assistant, Department of Physics, UTD 08/2016 - 12/2017
-- Undergraduate Research Assistant, Department of Computer Science and Technology, NUAA 12/2012 - 07/2016
 
 ## Reaserch Highlights
+- F. A. An, B. Sundar, **J. Hou** et al, [Phys. Rev. Lett. **127**, 130401 (2021)](https://doi.org/10.1103/PhysRevLett.127.130401). *Editors' Suggestion*
+  - We thoretically and experimentally study the nonlinear dynamics of a BEC in a synthetic momentum-state lattice.
+  - This can be a lattice generalization of my work on momentum-space Josephon junction [[Phys. Rev. Lett. **120**, 120401 (2018)](https://doi.org/10.1103/PhysRevLett.120.120401)].
 - Y.-J. Wu, **J. Hou** et al, [Phys. Rev. Lett. **124**, 227001 (2020)](https://doi.org/10.1103/PhysRevLett.124.227001).
   - We discover an experimentally accessible platform, using  a heterostructure of a quantum spin Hall insulator and an s-wave superconductor, for engineering Majorana corner and hinge modes, which are beneficial for topological quantum computing.
 - **J. Hou** et al, [Phys. Rev. Lett. **124**, 073603 (2020)](https://doi.org/10.1103/PhysRevLett.124.073603).
