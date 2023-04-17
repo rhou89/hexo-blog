@@ -1,17 +1,17 @@
 title: About me
+date: 2016-8-3
 ---
 
-## Education Background
-- Ph.D in *Physics*, [The University of Texas at Dallas (UTD)](https://www.utdallas.edu/), United States 08/2016 - 08/2021
-- Exchange program in *Software Engineering*, [Pole Universitaire Leonard de Vinci](https://www.devinci.fr/en/), France 08/2015 - 02/2016
-- B. E. in *Computer Science and Technology*, special training class for computer software, [Nanjing University of Aeronautics and Astronautics (NUAA)](http://iao.nuaa.edu.cn/), China 09/2012 - 06/2016
+## Summary
+Ryan is a Research Scientist in Applied Machine Learning & Quantum Computing, with a track record of delivering successful deep-learning solutions for large-scale recommendation systems and quantum-inspired algorithms for NP-hard combinatorial optimizations. He has rich industry experience from Pinterest, Meta, and Microsoft Research. He holds a Ph.D. in Quantum and Computational Physics & a B.E. in Computer Science and Technology, with a strong interdisciplinary research background & high-impact publications in top-tier journals.
 
 ## Appointments
-- Research Scientist, Facebook Research 09/2021 - Present
-- Visiting Researcher, Microsoft Research Quantum 05/2021 - Present
-- Research Assistant, UT Dallas 11/2016 - 08/2021
-- Research Intern, Micrsoft Research Quantum 06/2020 - 10/2020
-- Teaching Assistant, Department of Physics, UTD 08/2016 - 12/2017
+- Machine Learning Engineer (Recommender System), Pinterest, 03/2023 - Present
+- Review Editor (Condensed Matter Physics), Frontiers in Physics, 04/2023 - Present
+- Research Scientist (Machine Learning), Facebook 09/2021 - 01/2023
+- Visiting Researcher (Quantum Computing), Microsoft Research 05/2021 - 12/2021
+- Research Assistant (Quantum & Computational Physics), UT Dallas 11/2016 - 08/2021
+- Research Intern (Quantum Computing), Micrsoft Research 06/2020 - 10/2020
 
 ## Reaserch Highlights
 - F. A. An, B. Sundar, **J. Hou** et al, [Phys. Rev. Lett. **127**, 130401 (2021)](https://doi.org/10.1103/PhysRevLett.127.130401). *Editors' Suggestion*
@@ -33,5 +33,14 @@ title: About me
 
 Full publication list is available on [Google Scholar](https://scholar.google.com/citations?user=mJJxP8EAAAAJ&hl=en).
 
+## Education Background
+- Ph.D in *Physics*, [The University of Texas at Dallas](https://www.utdallas.edu/), United States 08/2016 - 08/2021
+  - Thesis: *Exotic Phases and Quantum Dynamics in Spin-Orbit Coupled Bose-Einstein Condensates*; Advisor: [Dr. Chuanwei Zhang](https://profiles.utdallas.edu/chuanwei.zhang).
+  - David Daniel Thesis Award by Dean of Graduate Education
+- Exchange program in *Software Engineering*, [Pole Universitaire Leonard de Vinci](https://www.devinci.fr/en/), France 08/2015 - 02/2016
+- B. E. in *Computer Science and Technology*, [Nanjing University of Aeronautics and Astronautics](http://iao.nuaa.edu.cn/), China 09/2012 - 06/2016
+  - Special Training Class for Computer Software
+  - National Scholarship by Ministry of Education, China
+
 ## Professional Services
-I serve as invited referee/reviewer for [*Science*](https://en.wikipedia.org/wiki/Science_(journal)), [*Nat. Commun.*](https://en.wikipedia.org/wiki/Nature_Communications), [*Phys. Rev. Lett.*](https://en.wikipedia.org/wiki/Physical_Review_Letters), [*Phys. Rev. A*](https://en.wikipedia.org/wiki/Physical_Review_A), [*Phys. Rev. B*](https://en.wikipedia.org/wiki/Physical_Review_B), [*IEEE Access*](https://en.wikipedia.org/wiki/IEEE_Access), [zbMath](https://en.wikipedia.org/wiki/Zentralblatt_MATH), etc.
+I serve as invited referee/reviewer for [*Science*](https://en.wikipedia.org/wiki/Science_(journal)), [*Nat. Commun.*](https://en.wikipedia.org/wiki/Nature_Communications), [*Phys. Rev. Lett.*](https://en.wikipedia.org/wiki/Physical_Review_Letters), [*Phys. Rev. A*](https://en.wikipedia.org/wiki/Physical_Review_A), [*Phys. Rev. B*](https://en.wikipedia.org/wiki/Physical_Review_B), [*Frontiers in Physics*](https://en.wikipedia.org/wiki/Frontiers_in_Physics), [*IEEE Access*](https://en.wikipedia.org/wiki/IEEE_Access), Phys. Rev. Res., [zbMath](https://en.wikipedia.org/wiki/Zentralblatt_MATH), etc.
