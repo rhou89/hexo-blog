@@ -1,15 +1,13 @@
 ---
-layout: post
 title: Learning Korean Alphabet
-date: 2020-11-02 21:00:00
+date: 2020-11-02
 tags: Korean
-categories: Lang
-author: ryan
-
+categories: [Language, Korean]
 ---
-Last Update: 05 Nov 2020
 
 Learning Korean with Duolingo.
+
+<!-- more -->
 
 ## Lesson 1
 - 아 a （阿）

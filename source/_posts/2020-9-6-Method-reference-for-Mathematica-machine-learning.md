@@ -1,27 +1,17 @@
 ---
-layout: post
-title: Method reference for Mathematica machine learning
-date: 2020-9-6 5:00:00
-tags: Code MMA ML
-categories: OIer ML
-author: ryan
-
+title: Method reference for machine learning with MMA
+date: 2020-9-6
+tags:
+- Coding
+- Machine Learning
+categories:
+- [Computer Science, Machine Learning]
+- [Computer Science, Coding]
 ---
-Last Update: 07 Sep 2020
-
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
 
 Mathematica (MMA) is known for its comprehensive library that covers almost everything you need in mathematics, physics and engineering. While I'm a big fan of MMA and MMA released its machine learning (ML) features long time ago, I used to use Python for ML practices because Python is more widely accepted by the data science community and thus, provides better supports. However, it has been 4 years after MMA 11's first release, the ML features in MMA are getting much better than before. So, I've spent sometime playing with MMA ML and made such a reference for later conveniences.
+
+<!-- more -->
 
 ## Data preprocess
 - *RandomSample*: gives a pseudorandom sample of a list. I used this for splitting my data into training and testing (and sometimes validating) sets.

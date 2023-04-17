@@ -1,29 +1,15 @@
 ---
-layout: post
 title: Mathematica Tricks
-date: 2016-10-12 17:30:00
-tags: Code MMA
-categories: OIer
-author: ryan
-
+date: 2016-10-12
+tags: Coding
+categories: [Computer Science, Coding]
 ---
-Last Update: 5 May 2020
-
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
 
 This note records some useful tricks I learnt in the past years of using Mathematica (MMA). MMA provides a very powerful language system that realizes almost any functionality one would image. However, such a huge library means large learning cost.
 
 Some exmaples are available in my [MMA Repository](https://github.com/ryanhau94/Mathamatica) and you can check there for more fun stuffs!
+
+<!-- more -->
 
 ## Cracking word puzzles
 Recently, when I was playing some word puzzles, I suddenly came to realize that I can take advantages of using programs to look up the dictionary with some given patterns. MMA does support this feature with a built-in function `DictionaryLookup[]`.

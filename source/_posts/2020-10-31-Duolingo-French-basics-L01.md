@@ -1,17 +1,16 @@
 ---
 layout: post
 title: Picking up French basics L01
-date: 2020-10-31 13:00:00
+date: 2020-10-31
 tags: French
-categories: Lang
-author: ryan
-
+categories: [Language, French]
 ---
-Last Update: 30 Dec 2020
 
 I've been in France for sometime and learnt French at some point. However, as I didn't use French for a long time, I almost forget even the basics. Recently, I've decided to pick it up again with Duolingo.
 
 Covering lessons: Basics 1, Greetings and Basics 2.
+
+<!-- more -->
 
 # French - Basics 1 and 2
 ## French sounds

@@ -3,7 +3,7 @@ cover:
 thumbnail: 
 date: 2020-3-10
 tags:
-- Readings
+- Reading
 categories:
 - [Popular Science]
 ---

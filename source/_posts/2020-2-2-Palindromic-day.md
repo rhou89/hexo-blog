@@ -1,41 +1,35 @@
 ---
 layout: post
 title: How rare is a palindromic day? (回文日期)
-date: 2020-02-02 17:30:00
-tags: Math Code Fun
-categories: GenMath
-author: ryan
-
+date: 2020-02-02
+tags:
+- Coding
+- Math
+categories:
+- Popular Science
+- [Computer Science, Coding]
 ---
-Last Update: 3 Feb 2020
 
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
+Today is a special day called "palindromic day", as you may have seen in the news. A palindromic day is a day, whose date, when written in certain forms, is a palindromic number. 
 
-A note added on 5/5/2020: One-line code in MMA finds all [palindromic words]({{site.url}}{{site.baseurl}}{{"Mathematica-Tricks"}}).
+<!-- more -->
 
-Today is a special day called "palindromic day", as you may have seen in the news. A palindromic day is a day, whose date, when written in certain forms, is a palindromic number. We start with the definition of palindromic numbers from Wiki
+We start with the definition of palindromic numbers from Wiki
 > "A palindromic number is a number that remains the same when its digits are reversed".
 
 Thus, 1221 or 12221 are both palindromic numbers. Those numbers also have a mirror/reflection symmetry in the sense that they have a symmetric center "12$\vert$21" or "12$\vert$2$\vert$21". This leads to the observation that if a number has odd numbers of digits, its symmetric center can ba arbitrary "12$\vert$n$\vert$21".
 
 When it comes to days, the situation becomes more complicated as people have different conventions in recording dates. In the following, we use "YYYY", "MM" and "DD" to denote year, month and day. In general, there are three different forms, "YYYY-MM-DD", "DD-MM-YYYY" and "MM-DD-YYYY". Thus, today is a global palindromic day, meaning the date is a palindromic number in anyone of the above forms. This is of course, very rare and the previous one comes at 1111-11-11, about 909 years ago. Now, let's release the constraint and consider only [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) standard form "YYYY-MM-DD" to see how rare a palindromic day could be?
 
-<figure class="ampstart-image-with-heading  m0 relative mb4">
+{% img "box px-0 py-0 ml-auto mr-auto" /gallery/Palindromic-day/Palindromic-day-BeatPattern.png 720 '"Beat pattern of palindromic days." "Beat pattern of palindromic days."' %}
+<br>
+
+<!-- <figure class="ampstart-image-with-heading  m0 relative mb4">
 <amp-img src="{{site.url}}assets/images/2020-2-2-Palindromic-day-BeatPattern.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 <figcaption class="absolute right-0 bottom-0 left-0">
 <header class="ampstart-image-heading px2 py2 line-height-4"><h1>Beat pattern of palindromic days.</h1></header>
 </figcaption>
-</figure>
+</figure> -->
 
 If we consider year from 1 to 2020, there are less than 10^6 days. So, we can first use a program to help us to select the palindromic numbers. For such a small state space, we do not really need any pruning so I simply search with brute force.
 

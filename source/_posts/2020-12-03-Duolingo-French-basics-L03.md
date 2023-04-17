@@ -1,15 +1,13 @@
 ---
-layout: post
 title: Picking up French basics L03
-date: 2020-12-03 20:00:00
+date: 2020-12-03
 tags: French
-categories: Lang
-author: ryan
-
+categories: [Language, French]
 ---
-Last Update: 31 Dec 2020
 
 Covering lessons: Family, Activities and People 2.
+
+<!-- more -->
 
 ## New words
 - la famille (the family)
@@ -22,6 +20,7 @@ Covering lessons: Family, Activities and People 2.
 - le jardin (the yard); la maison (the house); le appartement (the apartment)
 
 - to want; Il/Elle veut
+
 ## Example
 - C'est la fille de Julia (This is Julia's daughter); Ma femme s'appelle Alice (My wife's name is Alice)
 - Marc va bien (Marc is doing well)

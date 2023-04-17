@@ -1,15 +1,12 @@
 ---
-layout: post
 title: 一些有趣的分享（第一期）
-date: 2016-12-22 15:05:00
-tags: Fun Reflection
-categories: Other
-author: ryan
-
+date: 2016-12-22
+categories: Popular Science
 ---
-Last Update: 29 Oct 2020
 
-这里记录了一些我觉得很有意思的网站，文章或者问答。
+这里记录了一些我觉得很有意思的网站，文章或者问答（最后更新于 2020/20/19）。
+
+<!-- more -->
 
 - 最近搞了一个黑苹果，记录一下当时有用的网站。
   - [macOS完整安装包下载方法](https://www.newlearner.site/2019/07/22/full-size-macos.html)

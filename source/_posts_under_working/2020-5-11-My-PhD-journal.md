@@ -4,8 +4,6 @@ title: 从CS本科到物理小博的一些心路历程（长文预警以及持�
 date: 2020-5-11 5:10:00
 tags: 记事
 categories: Other
-author: ryan
-
 ---
 Last Update: 12 May 2020
 

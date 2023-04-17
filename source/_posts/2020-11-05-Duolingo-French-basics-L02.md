@@ -1,15 +1,13 @@
 ---
-layout: post
 title: Picking up French basics L02
-date: 2020-11-05 20:00:00
+date: 2020-11-05
 tags: French
-categories: Lang
-author: ryan
-
+categories: [Language, French]
 ---
-Last Update: 28 Nov 2020
 
 Covering lessons: People and Travel.
+
+<!-- more -->
 
 ## Sounds
 - ch (as in "buSH"), chat, chien

@@ -15,7 +15,8 @@ categories:
 
 <!-- more -->
 ## in the cards
-- very possible or likely。
+- very possible or likely.
+
 ## take it with a grain of salt
 - 跟别人讨论问题时候，对方突然用了这个短语，当时直接傻了。后来查了一下才发现是个挺常用的习语，意思是：regard something as exaggerated; believe only part of something。
   

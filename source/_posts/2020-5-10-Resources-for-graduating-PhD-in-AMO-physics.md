@@ -1,15 +1,18 @@
 ---
 layout: post
 title: Job hunting resources for Ph.D. students in CMP/AMO physics and related fields
-date: 2020-5-10 11:45:00
-tags: QI CMP AMO Jobs
-categories: QuanCom CMP AMO
-author: ryan
-
+date: 2020-5-10
+tags:
+- Physics
+- Research
+categories:
+- [Physics, AMO Physics]
+- [Physics, Condensed Matter Physics]
 ---
-Last Update: 28 May 2020
 
 Note added 5/28/2020: I just learnt that there's a tool called [UIUC Fellowship Finder](https://apps.grad.illinois.edu/fellowship-finder/). While completing excellent research work is the most important thing for a Ph.D. student, selling yourself is also critical to your career. Getting a fellowship from big tech companies like Google, IBM and Microsoft in the early stage of your Ph.D. study would definitely boost your future career significantly. It's really a pit that I only get to know this when I'm about to graduating.
+
+<!-- more -->
 
 I'm about to graduate next Spring and it's time to make a future plan. The following are some resources that you won't get easily by googling "jobs AMO physics".
 

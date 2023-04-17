@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Building personal blog with GitHub Pages, Jekyll and AMP
-date: 2020-1-29 14:00:00
-tags: Code Web
-categories: OIer
-author: ryan
-
+title: Building personal blog with GitHub Pages, Jekyll and AMP (Outdated)
+date: 2020-1-29
+tags: Study
+categories: [Computer Science, Coding]
 ---
-Last Update: 20 Oct 2020
+
+Updated on 04/16/2023: This post is **outdated** and this blog no longer used Jekyll and AMP.
 
 I built this Blog with Jekyll, GitHub Pages and AMP (see links at footer). The basic framework is based upon template hanuman, yet significant modifications are made. In this note, I share the basics of using these tools to build and customize your own website. This note is very friendly for starters.
+
+<!-- more -->
 
 ## Connecting to GitHub with SSH
 You can check your local SSH key through entering the folder `cd ~/.ssh`.
