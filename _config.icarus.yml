@@ -267,7 +267,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Google Scholar: 'https://scholar.google.com/citations?hl=en&user=mJJxP8EAAAAJ'
-            求是量子: 'https://www.qtseeker.com'
+            # 求是量子: 'https://www.qtseeker.com'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar

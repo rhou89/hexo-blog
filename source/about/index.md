@@ -7,13 +7,15 @@ Ryan is a Research Scientist in Applied Machine Learning & Quantum Computing, wi
 
 ## Appointments
 - Machine Learning Engineer (Recommender System), Pinterest, 03/2023 - Present
-- Review Editor (Condensed Matter Physics), Frontiers in Physics, 04/2023 - Present
+- Review Editor (Condensed Matter Physics), Frontiers in Physics, 04/2023 - 12/2023
 - Research Scientist (Machine Learning), Facebook 09/2021 - 01/2023
 - Visiting Researcher (Quantum Computing), Microsoft Research 05/2021 - 12/2021
-- Research Assistant (Quantum & Computational Physics), UT Dallas 11/2016 - 08/2021
+- Research Assistant (Quantum Physics), UT Dallas 11/2016 - 08/2021
 - Research Intern (Quantum Computing), Micrsoft Research 06/2020 - 10/2020
 
 ## Reaserch Highlights
+- Z. Li, X.-W. Luo, D. Lin, A. Gharajeh, J. Moon, **J. Hou**, et al., [Phys. Rev. Lett. **131**, 023202 (2023)](https://doi.org/10.1103/PhysRevLett.131.023202).
+  - We experimentally realize a topological microlaser via a 1D non-Hermitian AAH photonic lattice of ring cavities.
 - F. A. An, B. Sundar, **J. Hou** et al, [Phys. Rev. Lett. **127**, 130401 (2021)](https://doi.org/10.1103/PhysRevLett.127.130401). *Editors' Suggestion*
   - We experimentally realize a synthetic lattice in momentum space and show how nonlinear interactions and coherent tunneling lead to rich dyanmics including macroscopic self-trapping and phase-driven Josephson dynamics. The latter was predicted in our previous work [Phys. Rev. Lett. **120**, 120401 (2018)](https://doi.org/10.1103/PhysRevLett.120.120401).
 - Y.-J. Wu, **J. Hou** et al, [Phys. Rev. Lett. **124**, 227001 (2020)](https://doi.org/10.1103/PhysRevLett.124.227001).
