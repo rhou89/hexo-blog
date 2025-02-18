@@ -65,6 +65,17 @@ exclude: null
 ignore: null
 theme: icarus
 
+# https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: ./sitemap_template.xml
+  template_txt: ./sitemap_template.txt
+  rel: false
+  tags: true
+  categories: true
+
 # deploy to Github Pages
 deploy:
   type: git
