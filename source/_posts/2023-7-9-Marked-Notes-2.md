@@ -3,11 +3,18 @@ title: 一些有趣的分享（第二期）
 date: 2023-7-9
 categories: Popular Science
 ---
+Last Update: 16 Feb 2025
 
 这里记录了一些我觉得很有意思的网站，文章或者问答。
 
 <!-- more -->
-  
+
+- [不要只看川普，更要看向他的身后](https://mp.weixin.qq.com/s/ftB9Z-Q8vUur3Ka7e8TmLQ)
+非常好的帮助理解川普背后保守党执政方针的文章。对于很多咋看起来很荒唐的计划比如解散教育部，其实背后是有一些合理的出发点（当然出发点合理并不代表最终的结论/做法也合理）。推荐一看，有时间的话甚至可以看看原文"Mandate for Leadership: The Conservative Promise 2025"。
+
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive#inheritance)
+非常好的一篇关于软件工程的博客，推荐每一个在大型项目中contribute的人仔细读一遍！
+
 - [无用知识的有用性](https://gist.github.com/JuanitoFatas/5894119)
 推动人类进步的原始动力是好奇心。
 
